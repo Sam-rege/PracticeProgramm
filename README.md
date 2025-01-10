@@ -1,5 +1,5 @@
 
-Here’s a professional description for your GitHub repository dedicated to Core Java collections:
+
 
 Core Java Collections Repository
 Description
