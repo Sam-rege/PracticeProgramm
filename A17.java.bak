@@ -1,0 +1,9 @@
+class A17 
+{
+	public static void main(String[] args) 
+	{
+		char a = 'a'  , b = 'b'  ; 
+		char res = a + b ; 
+		System.out.println(res );
+	}
+}
