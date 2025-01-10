@@ -1,4 +1,15 @@
-class S2 
+class S2  
 {
-	static int a = 10  ; 
+	public static void main(String[] args) 
+	{
+		switch ( 1 )
+		{
+		case 1 : System.out.println(1) ;
+		case 2 : System.out.println(2) ;
+		case 3 : System.out.println(3) ;
+		case 4 : System.out.println(4) ;
+		default: System.out.println("default") ;
+		
+		}
+	}
 }

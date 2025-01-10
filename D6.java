@@ -2,17 +2,16 @@ class D6
 {
 	public static void main(String[] args) 
 	{
-		// Step1 : create variables 
-		int age  ; 
-		double sslc_per ; 
-		char grade ; 
-		// Step2 : assign data 
-		age = 22 ; 
-		sslc_per = 68.7 ; 
-		grade = 'b'  ; 
-		// Step3 : print data 
-		System.out.println( age ) ;
-		System.out.println( sslc_per ) ;
-		System.out.println(grade ) ;
+		double r = 6 , s = 6.4 , v = 5.7 ; 
+		if ( r > s && r > v )
+		{
+			System.out.println(" raju is the tallest") ;
+		}
+		else if ( s > v )
+		{
+			System.out.println(" Sham is the tallest ") ;
+		}
+		else
+			System.out.println("varma is the tallest ") ;
 	}
 }

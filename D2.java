@@ -2,8 +2,19 @@ class D2
 {
 	public static void main(String[] args) 
 	{
-		int age ; 
-		age = 22  ; 
-		System.out.println( age ) ;
+		System.out.println("Main Begin..!!");
+		if ( false )
+		{
+			System.out.println("task1 ");
+		}
+		else if ( true   )
+		{
+			System.out.println("task2");
+		}
+		else 
+		{
+			System.out.println("task3 ");
+		}
+		System.out.println("Main End..!!");
 	}
 }

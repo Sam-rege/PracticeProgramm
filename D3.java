@@ -2,11 +2,19 @@ class D3
 {
 	public static void main(String[] args) 
 	{
-		// step1 : create a variable 
-		int  sslc_per ; 
-		// step2 : assign the data 
-		sslc_per = 68.7 ; // double to int 
-		// step3 : print sslc per 
-		System.out.println( sslc_per ) ;
+		System.out.println("Main Begin..!!");
+		if ( true  )
+		{
+			System.out.println("task1 ");
+		}
+		else if ( true   )
+		{
+			System.out.println("task2");
+		}
+		else 
+		{
+			System.out.println("task3 ");
+		}
+		System.out.println("Main End..!!");
 	}
 }
