@@ -1,12 +1,8 @@
 class A1  
 {
-
 	public static void main(String[] args) 
 	{
-		 //10 + 20  ; // CTE
+		int a  ; 
+		System.out.println( a = 10 );
 	}
 }
-
-/*
-it is not a statement 
-*/

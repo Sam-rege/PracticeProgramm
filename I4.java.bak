@@ -1,0 +1,9 @@
+class I4  
+{
+	public static void main(String[] args) 
+	{
+		int a = 10  ; 
+		++a ; // update statement 
+		System.out.println(a );
+	}
+}
